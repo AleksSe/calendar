@@ -1,0 +1,36 @@
+{
+  "name": "calendar",
+  "version": "0.0.1",
+  "main": "src/calendar.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test",
+    "karma.conf.js",
+    "bower_components",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "angular-mocks": "~1.3.0"
+  },
+  "homepage": "https://github.com/AleksSe/lavorone",
+  "authors": [
+    {
+      "name": "Alexandru Serghei",
+      "email": "a.serghei@contur.it"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AleksSe/lavorone.git"
+  },
+  "description": "calendario non finito",
+  "keywords": [
+    "calendar",
+    "notfinished"
+  ],
+  "license": "",
+  "srcPath": "src"
+}

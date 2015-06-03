@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test
 
 Ciao ciao!
@@ -11,3 +12,6 @@ Run `grunt` for building and `grunt serve` for preview.
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
+=======
+# lavorone
+>>>>>>> 1ecda7674f962312181c10724c8fcc3464d9b3a1
